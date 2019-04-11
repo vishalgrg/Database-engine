@@ -1,0 +1,139 @@
+{
+  "1": {
+    "city": "Bangalore",
+    "season": "2008",
+    "win_by_runs": "140"
+  },
+  "2": {
+    "city": "Bangalore",
+    "season": "2008",
+    "win_by_runs": "0"
+  },
+  "3": {
+    "city": "Bangalore",
+    "season": "2008",
+    "win_by_runs": "13"
+  }
+}
+{
+  "1": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Bangalore",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "2": {
+    "winner": "Chennai Super Kings",
+    "city": "Chandigarh",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "3": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "4": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "5": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Deccan Chargers",
+    "team2": "Kolkata Knight Riders"
+  },
+  "6": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "7": {
+    "winner": "Delhi Daredevils",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "8": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "9": {
+    "winner": "Rajasthan Royals",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "10": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "11": {
+    "winner": "Rajasthan Royals",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "12": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings"
+  },
+  "13": {
+    "winner": "Deccan Chargers",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Deccan Chargers"
+  },
+  "14": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "15": {
+    "winner": "Chennai Super Kings",
+    "city": "Bangalore",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "16": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "17": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "18": {
+    "winner": "Kings XI Punjab",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "19": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "20": {
+    "winner": "Delhi Daredevils",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  }
+}
